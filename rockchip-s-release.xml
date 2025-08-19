@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="aosp" fetch="http://gitlab.com/rockchip_android_s" />
+  <remote name="ohd" fetch="http://gitlab.com/rockchip_android_s" />
+  <remote name="rk" fetch="http://gitlab.com/rockchip_android_s" />
+  <remote name="rk29" fetch="http://gitlab.com/rockchip_android_s" />
+  <remote name="rk_legacy" fetch="http://gitlab.com/rockchip_android_s"/>
+  <remote name="googlesource" fetch="https://android.googlesource.com/platform/external/chromium-webview"/>
+
+  <include name="Android12_RK3588_Radxa_rkr14.xml" />
+</manifest>
+
